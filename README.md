@@ -40,3 +40,9 @@ I haven't measured the requirements fully, but the GUI library I chose is pretty
 1. After making your changes, save the file with `ctrl+s` and exit the edit program with `ctrl+w`. After making sure all of the components are attached, you can run the program.
    1. Whenever the program is started it will check if the spawner has an MIP inside of it, and if it does it will pull it into the MIP chest. It will then condense the items in that chest, and scan for MIPs that contain a mob. Empty MIPs and other invalid items will be ignored.
 1. If you want the program to run on startup, move it to `/autorun.lua`
+
+## Screenshots
+
+![GUI](https://raw.githubusercontent.com/kchanakira/OCSP/master/preview_gui.png)
+![Front](https://raw.githubusercontent.com/kchanakira/OCSP/master/preview_front.png)
+![Side](https://raw.githubusercontent.com/kchanakira/OCSP/master/preview_side.png)
